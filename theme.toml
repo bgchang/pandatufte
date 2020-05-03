@@ -1,0 +1,12 @@
+name = "Pandatufte"
+license = "MIT"
+licenselink = "https://github.com/pandasonic/pandatufte/blob/master/LICENSE.md"
+description = "A fork of Hugo-Tufte, a minimalist blog theme for Hugo using Tufte-css."
+homepage = "http://github.com/pandasonic/pandatufte"
+tags = ["blog", "tufte", "minimal"]
+features = ["math", "tufte-css", "tufte"]
+min_version = 0.15
+
+[author]
+  name = "Bryant Chang"
+  homepage = "http://chagner.com"
